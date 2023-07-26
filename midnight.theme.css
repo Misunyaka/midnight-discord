@@ -9,7 +9,7 @@
 
 /* IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!! */
 
-@import url('https://Misunyaka.github.io/midnight-discord/midnight.css');
+@import url('https://refact0r.github.io/midnight-discord/midnight.css');
 
 /* change colors and variables here */
 :root {
@@ -39,7 +39,7 @@
 	/* color of headings and important text */
 	--text-2: hsl(220, 30%, 70%);
 	/* color of normal text */
-	--text-3: hsl(220°, 36%, 78%);
+	--text-3: hsl(222, 66%, 88%);
 	/* color of icon buttons and channels */
 	--text-4: hsl(220, 15%, 40%);
 	/* color of muted channels/chats and timestamps */
